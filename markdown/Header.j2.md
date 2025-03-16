@@ -14,6 +14,6 @@
 ((* endif *))
 ((* if cv.social_networks *))
     ((* for network in cv.social_networks *))
-- <<network.network>>: [<<network.username>>](<<network.url>>)
+- <<network.network>>: [](<<network.url>>)
     ((* endfor *))
 ((* endif *))

@@ -2,8 +2,10 @@
 
 - Email: [amosikowicz1@sheffield.ac.uk](mailto:amosikowicz1@sheffield.ac.uk)
 - Location: Sheffield, UK
-- LinkedIn: [olek-osikowicz-02018a251](https://linkedin.com/in/olek-osikowicz-02018a251)
-- GitHub: [olek-osikowicz](https://github.com/olek-osikowicz)
+- Website: [olek-osikowicz.github.io](https://olek-osikowicz.github.io/)
+- LinkedIn: [](https://linkedin.com/in/olek-osikowicz-02018a251)
+- GitHub: [](https://github.com/olek-osikowicz)
+- Google Scholar: [](https://scholar.google.com/citations?user=umiwSHYAAAAJ)
 
 
 # Education

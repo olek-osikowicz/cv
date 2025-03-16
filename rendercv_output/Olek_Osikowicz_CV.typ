@@ -453,8 +453,10 @@
 #let connections-list = (
   [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Sheffield, UK],
   [#box(original-link("mailto:amosikowicz1@sheffield.ac.uk")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)amosikowicz1\@sheffield.ac.uk])],
+  [#box(original-link("https://olek-osikowicz.github.io/")[#fa-icon("link", size: 0.9em) #h(0.05cm)olek-osikowicz.github.io])],
   [#box(original-link("https://linkedin.com/in/olek-osikowicz-02018a251")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)olek-osikowicz-02018a251])],
   [#box(original-link("https://github.com/olek-osikowicz")[#fa-icon("github", size: 0.9em) #h(0.05cm)olek-osikowicz])],
+  [#box(original-link("https://scholar.google.com/citations?user=umiwSHYAAAAJ")[#fa-icon("graduation-cap", size: 0.9em) #h(0.05cm)Google Scholar])],
 )
 #connections(connections-list)
 

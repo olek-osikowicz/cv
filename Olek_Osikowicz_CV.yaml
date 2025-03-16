@@ -3,12 +3,14 @@ cv:
   location: Sheffield, UK
   email: amosikowicz1@sheffield.ac.uk
   # phone: +1-609-999-9995
-  website:
+  website: https://olek-osikowicz.github.io/
   social_networks:
     - network: LinkedIn
       username: olek-osikowicz-02018a251
     - network: GitHub
       username: olek-osikowicz
+    - network: Google Scholar
+      username: umiwSHYAAAAJ
   sections:
     education:
       - institution: University of Sheffield
