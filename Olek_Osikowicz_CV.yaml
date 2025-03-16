@@ -1,40 +1,36 @@
 cv:
   name: Olek Osikowicz
-  location: Location
-  email: john.doe@example.com
-  phone: +1-609-999-9995
+  location: Sheffield, UK
+  email: amosikowicz1@sheffield.ac.uk
+  # phone: +1-609-999-9995
   website:
   social_networks:
     - network: LinkedIn
-      username: john.doe
+      username: olek-osikowicz-02018a251
     - network: GitHub
-      username: john.doe
+      username: olek-osikowicz
   sections:
-    welcome_to_RenderCV!:
-      - '[RenderCV](https://rendercv.com) is a Typst-based CV framework designed for academics and engineers, with Markdown syntax support.'
-      - Each section title is arbitrary. Each section contains a list of entries, and there are 7 different entry types to choose from.
     education:
-      - institution: Stanford University
+      - institution: University of Sheffield
         area: Computer Science
         degree: PhD
         date:
         start_date: 2023-09
         end_date: present
-        location: Stanford, CA, USA
+        location: Sheffield, UK
         summary:
         highlights:
           - Working on the optimization of autonomous vehicles in urban environments
-      - institution: Boğaziçi University
-        area: Computer Engineering
-        degree: BS
+      - institution: University of Sheffield
+        area: Computer Science
+        degree: BSc
         date:
-        start_date: 2018-09
-        end_date: 2022-06
-        location: Istanbul, Türkiye
+        start_date: 2020-09
+        end_date: 2023-06
+        location: Sheffield, UK
         summary:
         highlights:
-          - 'GPA: 3.9/4.0, ranked 1st out of 100 students'
-          - 'Awards: Best Senior Project, High Honor'
+          - Graduated with First Class Honours
     experience:
       - company: Company C
         position: Summer Intern
@@ -65,7 +61,7 @@ cv:
         highlights:
           - Designed an inventory management web application for a warehouse
     projects:
-      - name: '[Example Project](https://example.com)'
+      - name: "[Example Project](https://example.com)"
         date:
         start_date: 2024-05
         end_date: present
@@ -74,7 +70,7 @@ cv:
         highlights:
           - Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users
           - The app is made open-source (3,000+ stars [on GitHub](https://github.com))
-      - name: '[Teaching on Udemy](https://example.com)'
+      - name: "[Teaching on Udemy](https://example.com)"
         date: Fall 2023
         start_date:
         end_date:
@@ -88,19 +84,19 @@ cv:
       - label: Mathematics
         details: Good understanding of differential equations, calculus, and linear algebra
       - label: Languages
-        details: 'English (fluent, TOEFL: 118/120), Turkish (native)'
+        details: "English (fluent, TOEFL: 118/120), Turkish (native)"
     publications:
       - title: 3D Finite Element Analysis of No-Insulation Coils
         authors:
           - Frodo Baggins
-          - '***John Doe***'
+          - "***John Doe***"
           - Samwise Gamgee
         doi: 10.1109/TASC.2023.3340648
         url:
         journal:
         date: 2004-01
     extracurricular_activities:
-      - bullet: 'There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.'
+      - bullet: "There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*."
       - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
     numbered_entries:
       - number: This is a numbered entry.
@@ -145,7 +141,7 @@ design:
     vertical_space_between_connections_and_first_section: 0.7cm
     horizontal_space_between_connections: 0.5cm
     connections_font_family: Source Sans 3
-    separator_between_connections: ''
+    separator_between_connections: ""
     use_icons_for_connections: true
     alignment: center
   section_titles:
@@ -175,10 +171,10 @@ design:
     summary_left_margin: 0cm
   entry_types:
     one_line_entry:
-      template: '**LABEL:** DETAILS'
+      template: "**LABEL:** DETAILS"
     education_entry:
-      main_column_first_row_template: '**INSTITUTION**, AREA'
-      degree_column_template: '**DEGREE**'
+      main_column_first_row_template: "**INSTITUTION**, AREA"
+      degree_column_template: "**DEGREE**"
       degree_column_width: 1cm
       main_column_second_row_template: |-
         SUMMARY
@@ -187,7 +183,7 @@ design:
         LOCATION
         DATE
     normal_entry:
-      main_column_first_row_template: '**NAME**'
+      main_column_first_row_template: "**NAME**"
       main_column_second_row_template: |-
         SUMMARY
         HIGHLIGHTS
@@ -195,7 +191,7 @@ design:
         LOCATION
         DATE
     experience_entry:
-      main_column_first_row_template: '**COMPANY**, POSITION'
+      main_column_first_row_template: "**COMPANY**, POSITION"
       main_column_second_row_template: |-
         SUMMARY
         HIGHLIGHTS
@@ -203,7 +199,7 @@ design:
         LOCATION
         DATE
     publication_entry:
-      main_column_first_row_template: '**TITLE**'
+      main_column_first_row_template: "**TITLE**"
       main_column_second_row_template: |-
         AUTHORS
         URL (JOURNAL)
@@ -253,6 +249,6 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-03-16'
+  date: "2025-03-16"
   render_command:
   bold_keywords: []
