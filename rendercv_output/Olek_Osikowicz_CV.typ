@@ -525,81 +525,15 @@ Sept 2020 – June 2023
 
 #two-col-entry(
   left-content: [
-    #strong[Company C], Summer Intern
+    #strong[Dover Fueling Solutions], Summer Intern
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Developed deep learning models for the detection of gravitational waves in LIGO data],[Published #link("https://example.com")[3 peer-reviewed research papers] about the project and results],)
+    #v(design-highlights-top-margin);#highlights([Creating and testing fault-tolerant data pipelines on Microsoft Azure],[Worked with SQL Warehouses and Datalakes on Databricks Cloud platform],)
   ],
   right-content: [
-    Livingston, LA, USA
-
-June 2024 – Sept 2024
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Company B], Summer Intern
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Optimized the production line by 15\% by implementing a new scheduling algorithm],)
-  ],
-  right-content: [
-    Ankara, Türkiye
-
-June 2023 – Sept 2023
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Company A], Summer Intern
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Designed an inventory management web application for a warehouse],)
-  ],
-  right-content: [
-    Istanbul, Türkiye
+    Kraków, Poland
 
 June 2022 – Sept 2022
-  ],
-)
-
-
-
-== Projects
-
-
-#two-col-entry(
-  left-content: [
-    #link("https://example.com")[#strong[Example Project]]
-  ],
-  right-content: [
-    May 2024 – present
-  ],
-)
-#one-col-entry(
-  content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A web application for writing essays])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Launched an #link("https://example.com")[iOS app] in 09\/2024 that currently has 10k+ monthly active users],[The app is made open-source \(3,000+ stars #link("https://github.com")[on GitHub]\)],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://example.com")[#strong[Teaching on Udemy]]
-  ],
-  right-content: [
-    Fall 2023
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Instructed the \"Statics\" course on Udemy \(60,000+ students, 200,000+ hours watched\)],)
   ],
 )
 
@@ -609,57 +543,52 @@ June 2022 – Sept 2022
 
 
 #one-col-entry(
-  content: [#strong[Programming:] Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps]
+  content: [#strong[Cloud Computing:] Creating pipelines for research computing using contenerized applications, virtual machines, and data storage on AWS, Azure and GCP]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Mathematics:] Good understanding of differential equations, calculus, and linear algebra]
+  content: [#strong[Programming:] Proficient with Python, good understanding of networking and DevOps]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Languages:] English \(fluent, TOEFL: 118\/120\), Turkish \(native\)]
+  content: [#strong[Mathematics:] Good understanding of calculus, linear algebra and statistics]
 )
 
 
-== Extracurricular Activities
+== Side Projects
 
 
-#one-col-entry(
-  content: [- There are 7 unique entry types in RenderCV: #emph[BulletEntry], #emph[TextEntry], #emph[EducationEntry], #emph[ExperienceEntry], #emph[NormalEntry], #emph[PublicationEntry], and #emph[OneLineEntry].],
+#two-col-entry(
+  left-content: [
+    #link("https://goamaps.org/")[#strong[GOA Maps]]
+  ],
+  right-content: [
+    May 2024
+  ],
 )
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Each entry type has a different structure and layout. This document demonstrates all of them.],
-)
-
-
-== Numbered Entries
 #one-col-entry(
   content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A web application for generating city map posters])], column-gutter: 0cm)
 
-
-+ This is a numbered entry.
-+ This is another numbered entry.
-+ This is the third numbered entry.
-
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Coded from scratch using Svelte and OpenStreetMap data],[Self-hosted using Cloudflare Tunnel and Docker containers],)
   ],
 )
 
-== Reversed Numbered Entries
+
+
+== Languages
+
+
 #one-col-entry(
-  content: [
-    #let rev-enum-items = (
-
-
-[This is a reversed numbered entry.],
-[This is another reversed numbered entry.],
-[This is the third reversed numbered entry.],
-
-  )
-  #enum(
-    numbering: n => [#{rev-enum-items.len() + 1 - n}.],
-    ..rev-enum-items,
-  )
-  ],
+  content: [- English \(fluent\)],
 )
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [- Polish \(native\)],
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [- German \(basic\)],
+)
+
 

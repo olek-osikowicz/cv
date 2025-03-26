@@ -48,71 +48,36 @@ cv:
         journal: 2025 IEEE/ACM International Flaky Tests Workshop
         date: 2025-04
     experience:
-      - company: Company C
-        position: Summer Intern
-        date:
-        start_date: 2024-06
-        end_date: 2024-09
-        location: Livingston, LA, USA
-        summary:
-        highlights:
-          - Developed deep learning models for the detection of gravitational waves in LIGO data
-          - Published [3 peer-reviewed research papers](https://example.com) about the project and results
-      - company: Company B
-        position: Summer Intern
-        date:
-        start_date: 2023-06
-        end_date: 2023-09
-        location: Ankara, Türkiye
-        summary:
-        highlights:
-          - Optimized the production line by 15% by implementing a new scheduling algorithm
-      - company: Company A
+      - company: Dover Fueling Solutions
         position: Summer Intern
         date:
         start_date: 2022-06
         end_date: 2022-09
-        location: Istanbul, Türkiye
-        summary:
+        location: Kraków, Poland
+        summary: 
         highlights:
-          - Designed an inventory management web application for a warehouse
-    projects:
-      - name: "[Example Project](https://example.com)"
-        date:
-        start_date: 2024-05
-        end_date: present
-        location:
-        summary: A web application for writing essays
-        highlights:
-          - Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users
-          - The app is made open-source (3,000+ stars [on GitHub](https://github.com))
-      - name: "[Teaching on Udemy](https://example.com)"
-        date: Fall 2023
-        start_date:
-        end_date:
-        location:
-        summary:
-        highlights:
-          - Instructed the "Statics" course on Udemy (60,000+ students, 200,000+ hours watched)
+          - Creating and testing fault-tolerant data pipelines on Microsoft Azure
+          - Worked with SQL Warehouses and Datalakes on Databricks Cloud platform
     skills:
+      - label: Cloud Computing
+        details: Creating pipelines for research computing using contenerized applications, virtual machines, and data storage on AWS, Azure and GCP
       - label: Programming
-        details: Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps
+        details: Proficient with Python, good understanding of networking and DevOps
       - label: Mathematics
-        details: Good understanding of differential equations, calculus, and linear algebra
-      - label: Languages
-        details: "English (fluent, TOEFL: 118/120), Turkish (native)"
+        details: Good understanding of calculus, linear algebra and statistics
+    side_projects:
+      - name: "[GOA Maps](https://goamaps.org/)"
+        date: 2024-05
+        summary: A web application for generating city map posters
+        highlights:
+          - Coded from scratch using Svelte and OpenStreetMap data
+          - Self-hosted using Cloudflare Tunnel and Docker containers
+    languages: 
+      - bullet: English (fluent)
+      - bullet: Polish (native)
+      - bullet: German (basic)
 
-    extracurricular_activities:
-      - bullet: "There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*."
-      - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
-    numbered_entries:
-      - number: This is a numbered entry.
-      - number: This is another numbered entry.
-      - number: This is the third numbered entry.
-    reversed_numbered_entries:
-      - reversed_number: This is a reversed numbered entry.
-      - reversed_number: This is another reversed numbered entry.
-      - reversed_number: This is the third reversed numbered entry.
+
 design:
   theme: classic
   page:

@@ -34,54 +34,28 @@
 
 # Experience
 
-## Company C, Summer Intern
-
-- June 2024 – Sept 2024
-- Livingston, LA, USA
-- Developed deep learning models for the detection of gravitational waves in LIGO data
-- Published [3 peer-reviewed research papers](https://example.com) about the project and results
-
-## Company B, Summer Intern
-
-- June 2023 – Sept 2023
-- Ankara, Türkiye
-- Optimized the production line by 15% by implementing a new scheduling algorithm
-
-## Company A, Summer Intern
+## Dover Fueling Solutions, Summer Intern
 
 - June 2022 – Sept 2022
-- Istanbul, Türkiye
-- Designed an inventory management web application for a warehouse
-
-# Projects
-
-## [Example Project](https://example.com)
-
-- May 2024 – present
-- Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users
-- The app is made open-source (3,000+ stars [on GitHub](https://github.com))
-
-## [Teaching on Udemy](https://example.com)
-
-- Fall 2023
-- Instructed the "Statics" course on Udemy (60,000+ students, 200,000+ hours watched)
+- Kraków, Poland
+- Creating and testing fault-tolerant data pipelines on Microsoft Azure
+- Worked with SQL Warehouses and Datalakes on Databricks Cloud platform
 
 # Skills
 
-- Programming: Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps
-- Mathematics: Good understanding of differential equations, calculus, and linear algebra
-- Languages: English (fluent, TOEFL: 118/120), Turkish (native)
-# Extracurricular Activities
+- Cloud Computing: Creating pipelines for research computing using contenerized applications, virtual machines, and data storage on AWS, Azure and GCP
+- Programming: Proficient with Python, good understanding of networking and DevOps
+- Mathematics: Good understanding of calculus, linear algebra and statistics
+# Side Projects
 
-- There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Each entry type has a different structure and layout. This document demonstrates all of them.
-# Numbered Entries
+## [GOA Maps](https://goamaps.org/)
 
-- This is a numbered entry.
-- This is another numbered entry.
-- This is the third numbered entry.
-# Reversed Numbered Entries
+- May 2024
+- Coded from scratch using Svelte and OpenStreetMap data
+- Self-hosted using Cloudflare Tunnel and Docker containers
 
-- This is a reversed numbered entry.
-- This is another reversed numbered entry.
-- This is the third reversed numbered entry.
+# Languages
+
+- English (fluent)
+- Polish (native)
+- German (basic)
