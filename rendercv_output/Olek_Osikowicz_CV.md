@@ -3,7 +3,6 @@
 - Email: [amosikowicz1@sheffield.ac.uk](mailto:amosikowicz1@sheffield.ac.uk)
 - Location: Sheffield, UK
 - Website: [olek-osikowicz.github.io](https://olek-osikowicz.github.io/)
-- LinkedIn: [](https://linkedin.com/in/olek-osikowicz-02018a251)
 - GitHub: [](https://github.com/olek-osikowicz)
 - Google Scholar: [](https://scholar.google.com/citations?user=umiwSHYAAAAJ)
 
@@ -14,13 +13,24 @@
 
 - Sept 2023 – present
 - Sheffield, UK
-- Working on the optimization of autonomous vehicles in urban environments
+- Testing **Autonomous Driving Systems** (ADS) in simulated environments
+- Applying multi-fidelity optimization for ADS testing
+- Investigated flaky ADS tests caused by simulator nondeterminism
+- Supervisors: Donghwan Shin & Phil McMinn
 
 ## University of Sheffield, BSc in Computer Science
 
 - Sept 2020 – June 2023
 - Sheffield, UK
-- Graduated with First Class Honours
+- Graduated with First-Class Honours
+- Disertation: Autonomous Driving Systems Testing - grounded in reality test generation
+
+# Publications
+
+## Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments ([https://eprints.whiterose.ac.uk/222933/](eprints.whiterose.ac.uk/222933))
+- Apr 2025
+- ***Olek Osikowicz***, Phil McMinn, Donghwan Shin
+- 2025 IEEE/ACM International Flaky Tests Workshop
 
 # Experience
 
@@ -61,12 +71,6 @@
 - Programming: Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps
 - Mathematics: Good understanding of differential equations, calculus, and linear algebra
 - Languages: English (fluent, TOEFL: 118/120), Turkish (native)
-# Publications
-
-## 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan 2004
-- Frodo Baggins, ***John Doe***, Samwise Gamgee
-
 # Extracurricular Activities
 
 - There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.

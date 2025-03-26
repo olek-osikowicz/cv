@@ -454,7 +454,6 @@
   [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Sheffield, UK],
   [#box(original-link("mailto:amosikowicz1@sheffield.ac.uk")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)amosikowicz1\@sheffield.ac.uk])],
   [#box(original-link("https://olek-osikowicz.github.io/")[#fa-icon("link", size: 0.9em) #h(0.05cm)olek-osikowicz.github.io])],
-  [#box(original-link("https://linkedin.com/in/olek-osikowicz-02018a251")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)olek-osikowicz-02018a251])],
   [#box(original-link("https://github.com/olek-osikowicz")[#fa-icon("github", size: 0.9em) #h(0.05cm)olek-osikowicz])],
   [#box(original-link("https://scholar.google.com/citations?user=umiwSHYAAAAJ")[#fa-icon("graduation-cap", size: 0.9em) #h(0.05cm)Google Scholar])],
 )
@@ -473,7 +472,7 @@
     #strong[University of Sheffield], Computer Science
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Working on the optimization of autonomous vehicles in urban environments],)
+    #v(design-highlights-top-margin);#highlights([Testing #strong[Autonomous Driving Systems] \(ADS\) in simulated environments],[Applying multi-fidelity optimization for ADS testing],[Investigated flaky ADS tests caused by simulator nondeterminism],[Supervisors: Donghwan Shin & Phil McMinn],)
   ],
   right-content: [
     Sheffield, UK
@@ -491,7 +490,7 @@ Sept 2023 – present
     #strong[University of Sheffield], Computer Science
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Graduated with First Class Honours],)
+    #v(design-highlights-top-margin);#highlights([Graduated with First-Class Honours],[Disertation: Autonomous Driving Systems Testing - grounded in reality test generation],)
   ],
   right-content: [
     Sheffield, UK
@@ -499,6 +498,25 @@ Sept 2023 – present
 Sept 2020 – June 2023
   ],
 )
+
+
+
+== Publications
+
+
+#two-col-entry(
+  left-content: [
+    #strong[Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments]
+
+  ],
+  right-content: [
+    Apr 2025
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);#strong[#emph[Olek Osikowicz]], Phil McMinn, Donghwan Shin
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://eprints.whiterose.ac.uk/222933/")[eprints.whiterose.ac.uk/222933] (2025 IEEE\/ACM International Flaky Tests Workshop)])
 
 
 
@@ -601,25 +619,6 @@ June 2022 – Sept 2022
 #one-col-entry(
   content: [#strong[Languages:] English \(fluent, TOEFL: 118\/120\), Turkish \(native\)]
 )
-
-
-== Publications
-
-
-#two-col-entry(
-  left-content: [
-    #strong[3D Finite Element Analysis of No-Insulation Coils]
-
-  ],
-  right-content: [
-    Jan 2004
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);Frodo Baggins, #strong[#emph[John Doe]], Samwise Gamgee
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1109/TASC.2023.3340648")[10.1109/TASC.2023.3340648]])
-
 
 
 == Extracurricular Activities
