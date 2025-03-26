@@ -490,7 +490,7 @@ Sept 2023 – present
     #strong[University of Sheffield], Computer Science
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Graduated with First-Class Honours],[Disertation: Autonomous Driving Systems Testing - grounded in reality test generation],)
+    #v(design-highlights-top-margin);#highlights([Graduated with First-Class Honours],[Disertation: #emph[Autonomous Driving Systems Testing - grounded in reality test generation]],)
   ],
   right-content: [
     Sheffield, UK
@@ -533,7 +533,7 @@ Sept 2020 – June 2023
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Supporting undergraduate and master students in their efforts to re-engineer real world Python projects])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Supporting undergraduate and master's students in re-engineering real-world Python projects.])], column-gutter: 0cm)
   ],
 )
 
@@ -548,7 +548,7 @@ Sept 2020 – June 2023
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Running tutorial sessions for first-year students, explaining the priciples of modern algorithms and data structures])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Running tutorial sessions for first-year students, explaining the principles of modern algorithms and data structures.])], column-gutter: 0cm)
   ],
 )
 
@@ -562,7 +562,7 @@ Sept 2020 – June 2023
     #strong[Dover Fueling Solutions], Summer Intern
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Creating and testing fault-tolerant data pipelines on Microsoft Azure],[Worked with SQL Warehouses and Datalakes on Databricks Cloud platform],)
+    #v(design-highlights-top-margin);#highlights([Creating and testing fault-tolerant data pipelines on Microsoft Azure.],[Worked with SQL warehouses and data lakes on the Databricks cloud platform.],)
   ],
   right-content: [
     Kraków, Poland
@@ -577,19 +577,19 @@ June 2022 – Sept 2022
 
 
 #one-col-entry(
-  content: [#strong[Cloud Computing:] Creating pipelines for research computing using contenerized applications, virtual machines, and data storage on AWS, Azure and GCP]
+  content: [#strong[Cloud Computing:] Creating pipelines for research computing using containerized applications, virtual machines, and data storage on AWS, Azure, and GCP]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Programming:] Proficient with Python, good understanding of networking and DevOps]
+  content: [#strong[Programming:] Proficient in Python, with a good understanding of networking and DevOps]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Mathematics:] Good understanding of calculus, linear algebra and statistics]
+  content: [#strong[Mathematics:] Strong understanding of calculus, linear algebra, and statistics]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Languages:] Fluent in English, native Polish, basic German]
+  content: [#strong[Languages:] Fluent in English, native in Polish, basic German]
 )
 
 
@@ -606,9 +606,9 @@ June 2022 – Sept 2022
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A web application for generating city map posters])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A web application for generating city map posters.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Coded from scratch using Svelte and OpenStreetMap data],[Self-hosted using Cloudflare Tunnel and Docker containers],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Built from scratch using Svelte and OpenStreetMap data.],[Self-hosted with Cloudflare Tunnel and Docker containers.],)
   ],
 )
 

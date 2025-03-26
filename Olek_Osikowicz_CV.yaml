@@ -36,7 +36,7 @@ cv:
         summary:
         highlights:
           - Graduated with First-Class Honours
-          - "Disertation: Autonomous Driving Systems Testing - grounded in reality test generation"
+          - "Disertation: *Autonomous Driving Systems Testing - grounded in reality test generation*"
     publications:
       - title: Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments
         authors:
@@ -52,13 +52,13 @@ cv:
         date:
         start_date: 2024-03
         end_date: present
-        summary: Supporting undergraduate and master students in their efforts to re-engineer real world Python projects
+        summary: Supporting undergraduate and master's students in re-engineering real-world Python projects.
 
       - name: "[Introduction to Algorithms and Data Structures](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1009.html)"
         date:
         start_date: 2023-02
         end_date: 2023-06
-        summary: Running tutorial sessions for first-year students, explaining the priciples of modern algorithms and data structures 
+        summary: Running tutorial sessions for first-year students, explaining the principles of modern algorithms and data structures.
 
     working experience:
       - company: Dover Fueling Solutions
@@ -69,24 +69,25 @@ cv:
         location: Kraków, Poland
         summary: 
         highlights:
-          - Creating and testing fault-tolerant data pipelines on Microsoft Azure
-          - Worked with SQL Warehouses and Datalakes on Databricks Cloud platform
+          - Creating and testing fault-tolerant data pipelines on Microsoft Azure.
+          - Worked with SQL warehouses and data lakes on the Databricks cloud platform.
     skills:
       - label: Cloud Computing
-        details: Creating pipelines for research computing using contenerized applications, virtual machines, and data storage on AWS, Azure and GCP
+        details: Creating pipelines for research computing using containerized applications, virtual machines, and data storage on AWS, Azure, and GCP.
       - label: Programming
-        details: Proficient with Python, good understanding of networking and DevOps
+        details: Proficient in Python, with a good understanding of networking and DevOps.
       - label: Mathematics
-        details: Good understanding of calculus, linear algebra and statistics
+        details: Strong understanding of calculus, linear algebra, and statistics.
       - label: Languages
-        details: Fluent in English, native Polish, basic German
+        details: Fluent in English, native in Polish, basic German.
     side_projects:
       - name: "[GOA Maps](https://goamaps.org/)"
         date: 2024-05
-        summary: A web application for generating city map posters
-        highlights:
-          - Coded from scratch using Svelte and OpenStreetMap data
-          - Self-hosted using Cloudflare Tunnel and Docker containers
+        summary: A web application for generating city map posters.  
+        highlights:  
+          - Built from scratch using Svelte and OpenStreetMap data.  
+          - Self-hosted with Cloudflare Tunnel and Docker containers.  
+
 
 design:
   theme: classic

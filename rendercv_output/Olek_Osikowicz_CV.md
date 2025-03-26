@@ -23,7 +23,7 @@
 - Sept 2020 – June 2023
 - Sheffield, UK
 - Graduated with First-Class Honours
-- Disertation: Autonomous Driving Systems Testing - grounded in reality test generation
+- Disertation: *Autonomous Driving Systems Testing - grounded in reality test generation*
 
 # Publications
 
@@ -48,20 +48,20 @@
 
 - June 2022 – Sept 2022
 - Kraków, Poland
-- Creating and testing fault-tolerant data pipelines on Microsoft Azure
-- Worked with SQL Warehouses and Datalakes on Databricks Cloud platform
+- Creating and testing fault-tolerant data pipelines on Microsoft Azure.
+- Worked with SQL warehouses and data lakes on the Databricks cloud platform.
 
 # Skills
 
-- Cloud Computing: Creating pipelines for research computing using contenerized applications, virtual machines, and data storage on AWS, Azure and GCP
-- Programming: Proficient with Python, good understanding of networking and DevOps
-- Mathematics: Good understanding of calculus, linear algebra and statistics
-- Languages: Fluent in English, native Polish, basic German
+- Cloud Computing: Creating pipelines for research computing using containerized applications, virtual machines, and data storage on AWS, Azure, and GCP.
+- Programming: Proficient in Python, with a good understanding of networking and DevOps.
+- Mathematics: Strong understanding of calculus, linear algebra, and statistics.
+- Languages: Fluent in English, native in Polish, basic German.
 # Side Projects
 
 ## [GOA Maps](https://goamaps.org/)
 
 - May 2024
-- Coded from scratch using Svelte and OpenStreetMap data
-- Self-hosted using Cloudflare Tunnel and Docker containers
+- Built from scratch using Svelte and OpenStreetMap data.
+- Self-hosted with Cloudflare Tunnel and Docker containers.
 
