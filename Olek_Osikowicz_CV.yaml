@@ -47,7 +47,20 @@ cv:
         url: https://eprints.whiterose.ac.uk/222933/
         journal: 2025 IEEE/ACM International Flaky Tests Workshop
         date: 2025-04
-    experience:
+    teaching:
+      - name: "[Software Re-Engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html)"
+        date:
+        start_date: 2024-03
+        end_date: present
+        summary: Supporting undergraduate and master students in their efforts to re-engineer real world Python projects
+
+      - name: "[Introduction to Algorithms and Data Structures](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1009.html)"
+        date:
+        start_date: 2023-02
+        end_date: 2023-06
+        summary: Running tutorial sessions for first-year students, explaining the priciples of modern algorithms and data structures 
+
+    working experience:
       - company: Dover Fueling Solutions
         position: Summer Intern
         date:
@@ -65,6 +78,8 @@ cv:
         details: Proficient with Python, good understanding of networking and DevOps
       - label: Mathematics
         details: Good understanding of calculus, linear algebra and statistics
+      - label: Languages
+        details: Fluent in English, native Polish, basic German
     side_projects:
       - name: "[GOA Maps](https://goamaps.org/)"
         date: 2024-05
@@ -72,11 +87,6 @@ cv:
         highlights:
           - Coded from scratch using Svelte and OpenStreetMap data
           - Self-hosted using Cloudflare Tunnel and Docker containers
-    languages: 
-      - bullet: English (fluent)
-      - bullet: Polish (native)
-      - bullet: German (basic)
-
 
 design:
   theme: classic
@@ -185,7 +195,7 @@ design:
 locale:
   language: en
   phone_number_format: national
-  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  page_numbering_template: NAME
   last_updated_date_template: Last updated in TODAY
   date_template: MONTH_ABBREVIATION YEAR
   month: month

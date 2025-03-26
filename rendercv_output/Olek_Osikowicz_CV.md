@@ -32,7 +32,17 @@
 - ***Olek Osikowicz***, Phil McMinn, Donghwan Shin
 - 2025 IEEE/ACM International Flaky Tests Workshop
 
-# Experience
+# Teaching
+
+## [Software Re-Engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html)
+
+- Mar 2024 – present
+
+## [Introduction to Algorithms and Data Structures](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1009.html)
+
+- Feb 2023 – June 2023
+
+# Working Experience
 
 ## Dover Fueling Solutions, Summer Intern
 
@@ -46,6 +56,7 @@
 - Cloud Computing: Creating pipelines for research computing using contenerized applications, virtual machines, and data storage on AWS, Azure and GCP
 - Programming: Proficient with Python, good understanding of networking and DevOps
 - Mathematics: Good understanding of calculus, linear algebra and statistics
+- Languages: Fluent in English, native Polish, basic German
 # Side Projects
 
 ## [GOA Maps](https://goamaps.org/)
@@ -54,8 +65,3 @@
 - Coded from scratch using Svelte and OpenStreetMap data
 - Self-hosted using Cloudflare Tunnel and Docker containers
 
-# Languages
-
-- English (fluent)
-- Polish (native)
-- German (basic)

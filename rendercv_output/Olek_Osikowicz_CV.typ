@@ -2,7 +2,7 @@
 #import "@preview/fontawesome:0.5.0": fa-icon
 
 #let name = "Olek Osikowicz"
-#let locale-catalog-page-numbering-style = context { "Olek Osikowicz - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
+#let locale-catalog-page-numbering-style = context { "Olek Osikowicz" }
 #let locale-catalog-last-updated-date-style = "Last updated in Mar 2025"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
@@ -520,7 +520,41 @@ Sept 2020 – June 2023
 
 
 
-== Experience
+== Teaching
+
+
+#two-col-entry(
+  left-content: [
+    #link("https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html")[#strong[Software Re-Engineering]]
+  ],
+  right-content: [
+    Mar 2024 – present
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Supporting undergraduate and master students in their efforts to re-engineer real world Python projects])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1009.html")[#strong[Introduction to Algorithms and Data Structures]]
+  ],
+  right-content: [
+    Feb 2023 – June 2023
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Running tutorial sessions for first-year students, explaining the priciples of modern algorithms and data structures])], column-gutter: 0cm)
+  ],
+)
+
+
+
+== Working Experience
 
 
 #two-col-entry(
@@ -553,6 +587,10 @@ June 2022 – Sept 2022
 #one-col-entry(
   content: [#strong[Mathematics:] Good understanding of calculus, linear algebra and statistics]
 )
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Languages:] Fluent in English, native Polish, basic German]
+)
 
 
 == Side Projects
@@ -574,21 +612,5 @@ June 2022 – Sept 2022
   ],
 )
 
-
-
-== Languages
-
-
-#one-col-entry(
-  content: [- English \(fluent\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Polish \(native\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- German \(basic\)],
-)
 
 
