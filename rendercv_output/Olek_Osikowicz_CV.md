@@ -14,6 +14,7 @@
 - Sept 2023 – present
 - Sheffield, UK
 - Testing **Autonomous Driving Systems** (ADS) in simulated environments
+- Leveraging machine learning to optimize and accelerate ADS testing
 - Applying multi-fidelity optimization for ADS testing
 - Investigated flaky ADS tests caused by simulator nondeterminism
 - Supervisors: Donghwan Shin & Phil McMinn
@@ -62,6 +63,6 @@
 ## [GOA Maps](https://goamaps.org/)
 
 - May 2024
-- Built from scratch using Svelte and OpenStreetMap data.
+- Built from scratch using custom map data processing API and Svelte front-end.
 - Self-hosted with Cloudflare Tunnel and Docker containers.
 

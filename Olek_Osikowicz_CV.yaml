@@ -23,6 +23,7 @@ cv:
         summary:
         highlights:
           - Testing **Autonomous Driving Systems** (ADS) in simulated environments
+          - Leveraging machine learning to optimize and accelerate ADS testing
           - Applying multi-fidelity optimization for ADS testing
           - Investigated flaky ADS tests caused by simulator nondeterminism
           - "Supervisors: Donghwan Shin & Phil McMinn"
@@ -85,7 +86,7 @@ cv:
         date: 2024-05
         summary: A web application for generating city map posters.  
         highlights:  
-          - Built from scratch using Svelte and OpenStreetMap data.  
+          - Built from scratch using custom map data processing API and Svelte front-end.
           - Self-hosted with Cloudflare Tunnel and Docker containers.  
 
 
@@ -128,7 +129,7 @@ design:
     use_icons_for_connections: true
     alignment: center
   section_titles:
-    type: with-partial-line
+    type: with-parial-line
     font_family: Source Sans 3
     font_size: 1.4em
     bold: true

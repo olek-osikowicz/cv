@@ -472,7 +472,7 @@
     #strong[University of Sheffield], Computer Science
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Testing #strong[Autonomous Driving Systems] \(ADS\) in simulated environments],[Applying multi-fidelity optimization for ADS testing],[Investigated flaky ADS tests caused by simulator nondeterminism],[Supervisors: Donghwan Shin & Phil McMinn],)
+    #v(design-highlights-top-margin);#highlights([Testing #strong[Autonomous Driving Systems] \(ADS\) in simulated environments],[Leveraging machine learning to optimize and accelerate ADS testing],[Applying multi-fidelity optimization for ADS testing],[Investigated flaky ADS tests caused by simulator nondeterminism],[Supervisors: Donghwan Shin & Phil McMinn],)
   ],
   right-content: [
     Sheffield, UK
@@ -608,7 +608,7 @@ June 2022 – Sept 2022
   content: [
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A web application for generating city map posters.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Built from scratch using Svelte and OpenStreetMap data.],[Self-hosted with Cloudflare Tunnel and Docker containers.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Built from scratch using custom map data processing API and Svelte front-end.],[Self-hosted with Cloudflare Tunnel and Docker containers.],)
   ],
 )
 
