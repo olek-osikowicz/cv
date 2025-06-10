@@ -12,8 +12,8 @@
 
 - Sept 2023 – present
 - Sheffield, UK
-- Researching testing of autonomous black-box cyber-physical systems
-- Evaluating **Autonomous Driving Systems** (ADS) in simulated environments
+- Testing **Autonomous Driving Systems** (ADS) in simulated environments
+- Leveraging machine learning to accelerate scenario-based ADS testing
 - Developed **Multi-Fidelity Bayesian Optimization** approach for ADS testing
 - Analyzed flaky ADS tests caused by simulator nondeterminism
 - Supervisors: Donghwan Shin & Phil McMinn

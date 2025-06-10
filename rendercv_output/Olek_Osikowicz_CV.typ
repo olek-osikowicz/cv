@@ -471,7 +471,7 @@
     #strong[University of Sheffield], Computer Science
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Researching testing of autonomous black-box cyber-physical systems],[Evaluating #strong[Autonomous Driving Systems] \(ADS\) in simulated environments],[Developed #strong[Multi-Fidelity Bayesian Optimization] approach for ADS testing],[Analyzed flaky ADS tests caused by simulator nondeterminism],[Supervisors: Donghwan Shin & Phil McMinn],)
+    #v(design-highlights-top-margin);#highlights([Testing #strong[Autonomous Driving Systems] \(ADS\) in simulated environments],[Leveraging machine learning to accelerate scenario-based ADS testing],[Developed #strong[Multi-Fidelity Bayesian Optimization] approach for ADS testing],[Analyzed flaky ADS tests caused by simulator nondeterminism],[Supervisors: Donghwan Shin & Phil McMinn],)
   ],
   right-content: [
     Sheffield, UK
