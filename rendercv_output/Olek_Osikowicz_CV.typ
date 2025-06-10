@@ -54,7 +54,7 @@
 #let design-page-bottom-margin = 2cm
 #let design-page-left-margin = 2cm
 #let design-page-right-margin = 2cm
-#let design-page-show-last-updated-date = true
+#let design-page-show-last-updated-date = false
 #let design-page-show-page-numbering = true
 #let design-links-underline = false
 #let design-entry-types-education-entry-degree-column-width = 1cm
@@ -451,7 +451,6 @@
 
 // Print connections:
 #let connections-list = (
-  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Sheffield, UK],
   [#box(original-link("mailto:amosikowicz1@sheffield.ac.uk")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)amosikowicz1\@sheffield.ac.uk])],
   [#box(original-link("https://olek-osikowicz.github.io/")[#fa-icon("link", size: 0.9em) #h(0.05cm)olek-osikowicz.github.io])],
   [#box(original-link("https://github.com/olek-osikowicz")[#fa-icon("github", size: 0.9em) #h(0.05cm)olek-osikowicz])],
@@ -506,6 +505,21 @@ Sept 2020 – June 2023
 
 #two-col-entry(
   left-content: [
+    #strong[Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing]
+
+  ],
+  right-content: [
+    June 2025
+  ],
+)
+#one-col-entry(content:[
+  #v(design-highlights-top-margin);#strong[#emph[Olek Osikowicz]], Phil McMinn, Wei Xing, Donghwan Shin
+
+#v(design-highlights-top-margin - design-text-leading)#emph[Manuscript under review at the 2025 IEEE\/ACM International Conference on Automated Software Engineering \(ASE 2025\)]])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #strong[Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments]
 
   ],
@@ -516,7 +530,7 @@ Sept 2020 – June 2023
 #one-col-entry(content:[
 #v(design-highlights-top-margin);#strong[#emph[Olek Osikowicz]], Phil McMinn, Donghwan Shin
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://eprints.whiterose.ac.uk/222933/")[eprints.whiterose.ac.uk/222933] (2025 IEEE\/ACM International Flaky Tests Workshop)])
+#v(design-highlights-top-margin - design-text-leading)#link("https://eprints.whiterose.ac.uk/222933/")[eprints.whiterose.ac.uk/222933] #emph[2025 IEEE\/ACM International Flaky Tests Workshop \(FTW 2025\)]])
 
 
 
@@ -577,19 +591,19 @@ June 2022 – Sept 2022
 
 
 #one-col-entry(
-  content: [#strong[Cloud Computing:] Creating pipelines for research computing using containerized applications, virtual machines, and data storage on AWS, Azure, and GCP]
+  content: [#strong[Cloud Computing:] Building research computing pipelines with Docker, AWS \(EC2, S3\), and GCP \(Cloud Run\)]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Programming:] Proficient in Python, with a good understanding of networking and DevOps]
+  content: [#strong[Programming:] Proficient in Python; solid understanding of networking, DevOps, Git, and Linux]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Mathematics:] Strong understanding of calculus, linear algebra, and statistics]
+  content: [#strong[Mathematics:] Strong foundation in calculus, linear algebra, and statistics]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Languages:] Fluent in English, native in Polish, basic German]
+  content: [#strong[Languages:] Native Polish speaker, proficient in English, conversational in German]
 )
 
 
@@ -606,9 +620,7 @@ June 2022 – Sept 2022
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A web application for generating city map posters.])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Built from scratch using custom map data processing API and Svelte front-end.],[Self-hosted with Cloudflare Tunnel and Docker containers.],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Developed a Python-based map data processing application to generate high-quality city map posters from scratch.])], column-gutter: 0cm)
   ],
 )
 

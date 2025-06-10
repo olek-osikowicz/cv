@@ -1,6 +1,6 @@
 cv:
   name: Olek Osikowicz
-  location: Sheffield, UK
+  # location: Sheffield, UK
   email: amosikowicz1@sheffield.ac.uk
   # phone: +1-609-999-9995
   website: https://olek-osikowicz.github.io/
@@ -39,6 +39,14 @@ cv:
           - Graduated with First-Class Honours
           - "Disertation: *Autonomous Driving Systems Testing - grounded in reality test generation*"
     publications:
+      - title: Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing
+        authors:
+          - "***Olek Osikowicz***"
+          - Phil McMinn
+          - Wei Xing
+          - Donghwan Shin
+        journal: "*Manuscript under review at the 2025 IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)*"
+        date: 2025-06
       - title: Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments
         authors:
           - "***Olek Osikowicz***"
@@ -46,7 +54,7 @@ cv:
           - Donghwan Shin
         # doi: 10.1109/TASC.2023.3340648
         url: https://eprints.whiterose.ac.uk/222933/
-        journal: 2025 IEEE/ACM International Flaky Tests Workshop
+        journal: "*2025 IEEE/ACM International Flaky Tests Workshop (FTW 2025)*"
         date: 2025-04
     teaching:
       - name: "[Software Re-Engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html)"
@@ -74,20 +82,17 @@ cv:
           - Worked with SQL warehouses and data lakes on the Databricks cloud platform.
     skills:
       - label: Cloud Computing
-        details: Creating pipelines for research computing using containerized applications, virtual machines, and data storage on AWS, Azure, and GCP.
+        details: Building research computing pipelines with Docker, AWS (EC2, S3), and GCP (Cloud Run).
       - label: Programming
-        details: Proficient in Python, with a good understanding of networking and DevOps.
+        details: Proficient in Python; solid understanding of networking, DevOps, Git, and Linux.
       - label: Mathematics
-        details: Strong understanding of calculus, linear algebra, and statistics.
+        details: Strong foundation in calculus, linear algebra, and statistics.
       - label: Languages
-        details: Fluent in English, native in Polish, basic German.
+        details: Native Polish speaker, proficient in English, conversational in German.
     side_projects:
       - name: "[GOA Maps](https://goamaps.org/)"
         date: 2024-05
-        summary: A web application for generating city map posters.  
-        highlights:  
-          - Built from scratch using custom map data processing API and Svelte front-end.
-          - Self-hosted with Cloudflare Tunnel and Docker containers.  
+        summary: Developed a Python-based map data processing application to generate high-quality city map posters from scratch.
 
 
 design:
@@ -99,7 +104,7 @@ design:
     left_margin: 2cm
     right_margin: 2cm
     show_page_numbering: true
-    show_last_updated_date: true
+    show_last_updated_date: false
   colors:
     text: rgb(0, 0, 0)
     name: rgb(0, 79, 144)
@@ -186,7 +191,7 @@ design:
       main_column_first_row_template: "**TITLE**"
       main_column_second_row_template: |-
         AUTHORS
-        URL (JOURNAL)
+        URL JOURNAL
       main_column_second_row_without_journal_template: |-
         AUTHORS
         URL

@@ -1,7 +1,6 @@
 # Olek Osikowicz's CV
 
 - Email: [amosikowicz1@sheffield.ac.uk](mailto:amosikowicz1@sheffield.ac.uk)
-- Location: Sheffield, UK
 - Website: [olek-osikowicz.github.io](https://olek-osikowicz.github.io/)
 - GitHub: [](https://github.com/olek-osikowicz)
 - Google Scholar: [](https://scholar.google.com/citations?user=umiwSHYAAAAJ)
@@ -28,10 +27,15 @@
 
 # Publications
 
+## Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing 
+- June 2025
+- ***Olek Osikowicz***, Phil McMinn, Wei Xing, Donghwan Shin
+- *Manuscript under review at the 2025 IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)*
+
 ## Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments ([https://eprints.whiterose.ac.uk/222933/](eprints.whiterose.ac.uk/222933))
 - Apr 2025
 - ***Olek Osikowicz***, Phil McMinn, Donghwan Shin
-- 2025 IEEE/ACM International Flaky Tests Workshop
+- *2025 IEEE/ACM International Flaky Tests Workshop (FTW 2025)*
 
 # Teaching
 
@@ -54,15 +58,13 @@
 
 # Skills
 
-- Cloud Computing: Creating pipelines for research computing using containerized applications, virtual machines, and data storage on AWS, Azure, and GCP.
-- Programming: Proficient in Python, with a good understanding of networking and DevOps.
-- Mathematics: Strong understanding of calculus, linear algebra, and statistics.
-- Languages: Fluent in English, native in Polish, basic German.
+- Cloud Computing: Building research computing pipelines with Docker, AWS (EC2, S3), and GCP (Cloud Run).
+- Programming: Proficient in Python; solid understanding of networking, DevOps, Git, and Linux.
+- Mathematics: Strong foundation in calculus, linear algebra, and statistics.
+- Languages: Native Polish speaker, proficient in English, conversational in German.
 # Side Projects
 
 ## [GOA Maps](https://goamaps.org/)
 
 - May 2024
-- Built from scratch using custom map data processing API and Svelte front-end.
-- Self-hosted with Cloudflare Tunnel and Docker containers.
 
