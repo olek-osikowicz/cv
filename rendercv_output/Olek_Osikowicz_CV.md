@@ -12,11 +12,12 @@
 
 - Sept 2023 – present
 - Sheffield, UK
-- Testing **Autonomous Driving Systems** (ADS) in simulated environments
-- Leveraging machine learning to accelerate scenario-based ADS testing
-- Developed **Multi-Fidelity Bayesian Optimization** approach for ADS testing
-- Analyzed flaky ADS tests caused by simulator nondeterminism
-- Supervisors: Donghwan Shin & Phil McMinn
+- **Testing Autonomous Driving Systems (ADS) in simulated environments**
+- Applied machine learning to accelerate scenario-based ADS testing
+- Developed Multi-Fidelity Bayesian Optimization framework for ADS testing
+- Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism
+- Mentored summer research students on software testing projects
+- Contributed to open-source ADS testing tools
 
 ## University of Sheffield, BSc in Computer Science
 
@@ -61,8 +62,8 @@
 - Cloud Computing: Building research computing pipelines with Docker, AWS (EC2, S3), and GCP (Cloud Run).
 - Programming: Proficient in Python; solid understanding of networking, DevOps, Git, and Linux.
 - Mathematics: Strong foundation in calculus, linear algebra, and statistics.
-- Languages: Native Polish speaker, proficient in English, conversational in German.
-# Side Projects
+- Languages: Polish (native), English (proficient), German (conversational)
+# Open Source Projects
 
 ## [GOA Maps](https://goamaps.org/)
 

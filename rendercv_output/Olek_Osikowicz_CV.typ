@@ -471,7 +471,7 @@
     #strong[University of Sheffield], Computer Science
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Testing #strong[Autonomous Driving Systems] \(ADS\) in simulated environments],[Leveraging machine learning to accelerate scenario-based ADS testing],[Developed #strong[Multi-Fidelity Bayesian Optimization] approach for ADS testing],[Analyzed flaky ADS tests caused by simulator nondeterminism],[Supervisors: Donghwan Shin & Phil McMinn],)
+    #v(design-highlights-top-margin);#highlights([#strong[Testing Autonomous Driving Systems \(ADS\) in simulated environments]],[Applied machine learning to accelerate scenario-based ADS testing],[Developed Multi-Fidelity Bayesian Optimization framework for ADS testing],[Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism],[Mentored summer research students on software testing projects],[Contributed to open-source ADS testing tools],)
   ],
   right-content: [
     Sheffield, UK
@@ -603,11 +603,11 @@ June 2022 – Sept 2022
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Languages:] Native Polish speaker, proficient in English, conversational in German]
+  content: [#strong[Languages:] Polish \(native\), English \(proficient\), German \(conversational\)]
 )
 
 
-== Side Projects
+== Open Source Projects
 
 
 #two-col-entry(
@@ -620,7 +620,7 @@ June 2022 – Sept 2022
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Developed a Python-based map data processing application to generate high-quality city map posters from scratch.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Map data processing application built in Python from scratch, generating high-quality city map posters.])], column-gutter: 0cm)
   ],
 )
 
