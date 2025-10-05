@@ -471,7 +471,7 @@
     #strong[University of Sheffield], Computer Science
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([#strong[Testing Autonomous Driving Systems \(ADS\) in simulated environments]],[Applied machine learning to accelerate scenario-based ADS testing],[Developed Multi-Fidelity Bayesian Optimization framework for ADS testing],[Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism],[Mentored summer research students on software testing projects],[Contributed to open-source ADS testing tools],)
+    #v(design-highlights-top-margin);#highlights([#strong[Simulation-based testing of Autonomous Driving Systems \(ADS\)]],[Applied machine learning to accelerate scenario-based ADS verification],[Developed Multi-Fidelity Bayesian Optimization framework for ADS testing],[Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism],[Appointed as Research Assistant facilitating international collaboration],[Contributed to open-source ADS testing frameworks and tools],)
   ],
   right-content: [
     Sheffield, UK
@@ -515,7 +515,7 @@ Sept 2020 – June 2023
 #one-col-entry(content:[
   #v(design-highlights-top-margin);#strong[#emph[Olek Osikowicz]], Phil McMinn, Wei Xing, Donghwan Shin
 
-#v(design-highlights-top-margin - design-text-leading)#emph[Manuscript under review at the 2025 IEEE\/ACM International Conference on Automated Software Engineering \(ASE 2025\)]])
+#v(design-highlights-top-margin - design-text-leading)#emph[Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium \(IV 2026\)]])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
@@ -605,24 +605,5 @@ June 2022 – Sept 2022
 #one-col-entry(
   content: [#strong[Languages:] Polish \(native\), English \(proficient\), German \(conversational\)]
 )
-
-
-== Open Source Projects
-
-
-#two-col-entry(
-  left-content: [
-    #link("https://goamaps.org/")[#strong[GOA Maps]]
-  ],
-  right-content: [
-    May 2024
-  ],
-)
-#one-col-entry(
-  content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Map data processing application built in Python from scratch, generating high-quality city map posters.])], column-gutter: 0cm)
-  ],
-)
-
 
 

@@ -12,12 +12,12 @@
 
 - Sept 2023 – present
 - Sheffield, UK
-- **Testing Autonomous Driving Systems (ADS) in simulated environments**
-- Applied machine learning to accelerate scenario-based ADS testing
+- **Simulation-based testing of Autonomous Driving Systems (ADS)**
+- Applied machine learning to accelerate scenario-based ADS verification
 - Developed Multi-Fidelity Bayesian Optimization framework for ADS testing
 - Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism
-- Mentored summer research students on software testing projects
-- Contributed to open-source ADS testing tools
+- Appointed as Research Assistant facilitating international collaboration
+- Contributed to open-source ADS testing frameworks and tools
 
 ## University of Sheffield, BSc in Computer Science
 
@@ -31,7 +31,7 @@
 ## Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing 
 - June 2025
 - ***Olek Osikowicz***, Phil McMinn, Wei Xing, Donghwan Shin
-- *Manuscript under review at the 2025 IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)*
+- *Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)*
 
 ## Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments ([https://eprints.whiterose.ac.uk/222933/](eprints.whiterose.ac.uk/222933))
 - Apr 2025
@@ -63,9 +63,3 @@
 - Programming: Proficient in Python; solid understanding of networking, DevOps, Git, and Linux.
 - Mathematics: Strong foundation in calculus, linear algebra, and statistics.
 - Languages: Polish (native), English (proficient), German (conversational)
-# Open Source Projects
-
-## [GOA Maps](https://goamaps.org/)
-
-- May 2024
-

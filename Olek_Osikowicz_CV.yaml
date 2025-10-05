@@ -22,13 +22,13 @@ cv:
         location: Sheffield, UK
         summary:
         highlights:
-          - "**Testing Autonomous Driving Systems (ADS) in simulated environments**"
-          - "Applied machine learning to accelerate scenario-based ADS testing"
+          - "**Simulation-based testing of Autonomous Driving Systems (ADS)**"
+          - "Applied machine learning to accelerate scenario-based ADS verification"
           - Developed Multi-Fidelity Bayesian Optimization framework for ADS testing
           - Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism
-          - Mentored summer research students on software testing projects
-          - Contributed to open-source ADS testing tools
-          # - "PhD Supervisors: Donghwan Shin & Phil McMinn"
+          - Appointed as Research Assistant facilitating international collaboration
+          - Contributed to open-source ADS testing frameworks and tools
+          # - "*PhD Supervisors: Donghwan Shin & Phil McMinn*"
       - institution: University of Sheffield
         area: Computer Science
         degree: BSc
@@ -47,7 +47,7 @@ cv:
           - Phil McMinn
           - Wei Xing
           - Donghwan Shin
-        journal: "*Manuscript under review at the 2025 IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)*"
+        journal: "*Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)*"
         date: 2025-06
       - title: Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments
         authors:
@@ -91,10 +91,10 @@ cv:
         details: Strong foundation in calculus, linear algebra, and statistics.
       - label: Languages
         details: Polish (native), English (proficient), German (conversational)
-    open_source_projects:
-      - name: "[GOA Maps](https://goamaps.org/)"
-        date: 2024-05
-        summary: Map data processing application built in Python from scratch, generating high-quality city map posters.
+    # open_source_projects:
+    #   - name: "[GOA Maps](https://goamaps.org/)"
+    #     date: 2024-05
+    #     summary: Map data processing application built in Python from scratch, generating high-quality city map posters.
 
 
 design:
