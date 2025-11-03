@@ -50,6 +50,13 @@
 
 # Working Experience
 
+## University of Sheffield, Research Assistant in Simulation-Based Testing
+
+- June 2025 – present
+- Sheffield, UK
+- Developing and evaluating state-of-the-art autonomous driving testing tools
+- Project: "Simulation-Based Testing for Mobility Cyber-Physical Systems of Systems"
+
 ## Dover Fueling Solutions, Summer Intern
 
 - June 2022 – Sept 2022

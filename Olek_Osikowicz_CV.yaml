@@ -72,13 +72,22 @@ cv:
         summary: Running tutorial sessions for first-year students, explaining the principles of modern algorithms and data structures.
 
     working experience:
+      - company: University of Sheffield
+        position: Research Assistant in Simulation-Based Testing
+        date:
+        url: https://sheffield.ac.uk/cs/people/research-staff/olek-osikowicz
+        start_date: 2025-06
+        end_date: present
+        location: Sheffield, UK
+        highlights:
+          - Developing and evaluating state-of-the-art autonomous driving testing tools
+          - "Project: \"Simulation-Based Testing for Mobility Cyber-Physical Systems of Systems\""
       - company: Dover Fueling Solutions
         position: Summer Intern
         date:
         start_date: 2022-06
         end_date: 2022-09
         location: Kraków, Poland
-        summary: 
         highlights:
           - Creating and testing fault-tolerant data pipelines on Microsoft Azure.
           - Worked with SQL warehouses and data lakes on the Databricks cloud platform.

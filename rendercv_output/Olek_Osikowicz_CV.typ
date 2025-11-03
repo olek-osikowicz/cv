@@ -573,6 +573,21 @@ Sept 2020 – June 2023
 
 #two-col-entry(
   left-content: [
+    #strong[University of Sheffield], Research Assistant in Simulation-Based Testing
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Developing and evaluating state-of-the-art autonomous driving testing tools],[Project: \"Simulation-Based Testing for Mobility Cyber-Physical Systems of Systems\"],)
+  ],
+  right-content: [
+    Sheffield, UK
+
+June 2025 – present
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #strong[Dover Fueling Solutions], Summer Intern
     #v(-design-text-leading)
 
