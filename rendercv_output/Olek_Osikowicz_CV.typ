@@ -591,7 +591,7 @@ June 2025 – present
     #strong[Dover Fueling Solutions], Summer Intern
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Creating and testing fault-tolerant data pipelines on Microsoft Azure.],[Worked with SQL warehouses and data lakes on the Databricks cloud platform.],)
+    #v(design-highlights-top-margin);#highlights([Developing and testing fault-tolerant data pipelines on Microsoft Azure.],[Worked with SQL warehouses and data lakes on the Databricks cloud platform.],)
   ],
   right-content: [
     Kraków, Poland
@@ -606,11 +606,11 @@ June 2022 – Sept 2022
 
 
 #one-col-entry(
-  content: [#strong[Cloud Computing:] Building research computing pipelines with Docker, AWS \(EC2, S3\), and GCP \(Cloud Run\)]
+  content: [#strong[Cloud Computing:] Building distributed computing pipelines with Docker, AWS \(EC2, S3\), and GCP \(Cloud Run\)]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Programming:] Proficient in Python; solid understanding of networking, DevOps, Git, and Linux]
+  content: [#strong[Programming:] Proficient in Python for data and ML \(NumPy, Pandas, PyTorch, PySpark\), plus DevOps, Git, and Linux]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

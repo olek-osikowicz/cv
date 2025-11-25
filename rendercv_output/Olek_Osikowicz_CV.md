@@ -61,12 +61,12 @@
 
 - June 2022 – Sept 2022
 - Kraków, Poland
-- Creating and testing fault-tolerant data pipelines on Microsoft Azure.
+- Developing and testing fault-tolerant data pipelines on Microsoft Azure.
 - Worked with SQL warehouses and data lakes on the Databricks cloud platform.
 
 # Skills
 
-- Cloud Computing: Building research computing pipelines with Docker, AWS (EC2, S3), and GCP (Cloud Run).
-- Programming: Proficient in Python; solid understanding of networking, DevOps, Git, and Linux.
+- Cloud Computing: Building distributed computing pipelines with Docker, AWS (EC2, S3), and GCP (Cloud Run).
+- Programming: Proficient in Python for data and ML (NumPy, Pandas, PyTorch, PySpark), plus DevOps, Git, and Linux.
 - Mathematics: Strong foundation in calculus, linear algebra, and statistics.
 - Languages: Polish (native), English (proficient), German (conversational)
