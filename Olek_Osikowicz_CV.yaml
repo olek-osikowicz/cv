@@ -98,8 +98,8 @@ cv:
         details: Proficient in Python for data and ML (NumPy, Pandas, PyTorch, PySpark), plus DevOps, Git, and Linux.
       - label: Mathematics
         details: Strong foundation in calculus, linear algebra, and statistics.
-      - label: Languages
-        details: Polish (native), English (proficient), German (conversational)
+    #  - label: Languages
+    #   details: Polish (native), English (proficient), German (conversational)
     # open_source_projects:
     #   - name: "[GOA Maps](https://goamaps.org/)"
     #     date: 2024-05

@@ -616,9 +616,5 @@ June 2022 – Sept 2022
 #one-col-entry(
   content: [#strong[Mathematics:] Strong foundation in calculus, linear algebra, and statistics]
 )
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Languages:] Polish \(native\), English \(proficient\), German \(conversational\)]
-)
 
 

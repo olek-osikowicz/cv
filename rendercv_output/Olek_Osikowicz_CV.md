@@ -69,4 +69,3 @@
 - Cloud Computing: Building distributed computing pipelines with Docker, AWS (EC2, S3), and GCP (Cloud Run).
 - Programming: Proficient in Python for data and ML (NumPy, Pandas, PyTorch, PySpark), plus DevOps, Git, and Linux.
 - Mathematics: Strong foundation in calculus, linear algebra, and statistics.
-- Languages: Polish (native), English (proficient), German (conversational)
