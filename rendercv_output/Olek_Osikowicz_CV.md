@@ -3,7 +3,7 @@
 - Email: [amosikowicz1@sheffield.ac.uk](mailto:amosikowicz1@sheffield.ac.uk)
 - Website: [olek-osikowicz.github.io](https://olek-osikowicz.github.io/)
 - GitHub: [](https://github.com/olek-osikowicz)
-- Google Scholar: [](https://scholar.google.com/citations?user=umiwSHYAAAAJ)
+- LinkedIn: [](https://linkedin.com/in/olek-osikowicz)
 
 
 # Education
@@ -54,18 +54,18 @@
 
 - June 2025 – present
 - Sheffield, UK
-- Developing and evaluating state-of-the-art autonomous driving testing tools
+- Developing automated Python tooling for large-scale ADS simulation and testing
 - Project: "Simulation-Based Testing for Mobility Cyber-Physical Systems of Systems"
 
 ## Dover Fueling Solutions, Summer Intern
 
 - June 2022 – Sept 2022
 - Kraków, Poland
-- Developing and testing fault-tolerant data pipelines on Microsoft Azure.
-- Worked with SQL warehouses and data lakes on the Databricks cloud platform.
+- Built and validated automated data pipelines on Microsoft Azure
+- Worked with SQL warehouses and Databricks for scalable data processing
 
 # Skills
 
-- Cloud Computing: Building distributed computing pipelines with Docker, AWS (EC2, S3), and GCP (Cloud Run).
-- Programming: Proficient in Python for data and ML (NumPy, Pandas, PyTorch, PySpark), plus DevOps, Git, and Linux.
+- Automation: Building distributed computing pipelines with Python multiprocessing, Docker, Ray, AWS, and GCP; observability with Loki, Prometheus, and Grafana.
+- Programming: Python for backend automation, ML, and visualization (Pandas, PyTorch, Matplotlib); Svelte and React for frontend development.
 - Mathematics: Strong foundation in calculus, linear algebra, and statistics.

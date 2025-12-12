@@ -454,7 +454,7 @@
   [#box(original-link("mailto:amosikowicz1@sheffield.ac.uk")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)amosikowicz1\@sheffield.ac.uk])],
   [#box(original-link("https://olek-osikowicz.github.io/")[#fa-icon("link", size: 0.9em) #h(0.05cm)olek-osikowicz.github.io])],
   [#box(original-link("https://github.com/olek-osikowicz")[#fa-icon("github", size: 0.9em) #h(0.05cm)olek-osikowicz])],
-  [#box(original-link("https://scholar.google.com/citations?user=umiwSHYAAAAJ")[#fa-icon("graduation-cap", size: 0.9em) #h(0.05cm)Google Scholar])],
+  [#box(original-link("https://linkedin.com/in/olek-osikowicz")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)olek-osikowicz])],
 )
 #connections(connections-list)
 
@@ -576,7 +576,7 @@ Sept 2020 – June 2023
     #strong[University of Sheffield], Research Assistant in Simulation-Based Testing
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Developing and evaluating state-of-the-art autonomous driving testing tools],[Project: \"Simulation-Based Testing for Mobility Cyber-Physical Systems of Systems\"],)
+    #v(design-highlights-top-margin);#highlights([Developing automated Python tooling for large-scale ADS simulation and testing],[Project: \"Simulation-Based Testing for Mobility Cyber-Physical Systems of Systems\"],)
   ],
   right-content: [
     Sheffield, UK
@@ -591,7 +591,7 @@ June 2025 – present
     #strong[Dover Fueling Solutions], Summer Intern
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Developing and testing fault-tolerant data pipelines on Microsoft Azure.],[Worked with SQL warehouses and data lakes on the Databricks cloud platform.],)
+    #v(design-highlights-top-margin);#highlights([Built and validated automated data pipelines on Microsoft Azure],[Worked with SQL warehouses and Databricks for scalable data processing],)
   ],
   right-content: [
     Kraków, Poland
@@ -606,11 +606,11 @@ June 2022 – Sept 2022
 
 
 #one-col-entry(
-  content: [#strong[Cloud Computing:] Building distributed computing pipelines with Docker, AWS \(EC2, S3\), and GCP \(Cloud Run\)]
+  content: [#strong[Automation:] Building distributed computing pipelines with Python multiprocessing, Docker, Ray, AWS, and GCP; observability with Loki, Prometheus, and Grafana]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Programming:] Proficient in Python for data and ML \(NumPy, Pandas, PyTorch, PySpark\), plus DevOps, Git, and Linux]
+  content: [#strong[Programming:] Python for backend automation, ML, and visualization \(Pandas, PyTorch, Matplotlib\); Svelte and React for frontend development]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

@@ -5,12 +5,12 @@ cv:
   # phone: +1-609-999-9995
   website: https://olek-osikowicz.github.io/
   social_networks:
-    # - network: LinkedIn
-    #   username: olek-osikowicz
     - network: GitHub
       username: olek-osikowicz
-    - network: Google Scholar
-      username: umiwSHYAAAAJ
+    - network: LinkedIn
+      username: olek-osikowicz
+    # - network: Google Scholar
+    #   username: umiwSHYAAAAJ
   sections:
     education:
       - institution: University of Sheffield
@@ -80,7 +80,7 @@ cv:
         end_date: present
         location: Sheffield, UK
         highlights:
-          - Developing and evaluating state-of-the-art autonomous driving testing tools
+          - Developing automated Python tooling for large-scale ADS simulation and testing
           - "Project: \"Simulation-Based Testing for Mobility Cyber-Physical Systems of Systems\""
       - company: Dover Fueling Solutions
         position: Summer Intern
@@ -89,13 +89,13 @@ cv:
         end_date: 2022-09
         location: Kraków, Poland
         highlights:
-          - Developing and testing fault-tolerant data pipelines on Microsoft Azure.
-          - Worked with SQL warehouses and data lakes on the Databricks cloud platform.
+          - Built and validated automated data pipelines on Microsoft Azure
+          - Worked with SQL warehouses and Databricks for scalable data processing
     skills:
-      - label: Cloud Computing
-        details: Building distributed computing pipelines with Docker, AWS (EC2, S3), and GCP (Cloud Run).
+      - label: Automation
+        details: Building distributed computing pipelines with Python multiprocessing, Docker, Ray, AWS, and GCP; observability with Loki, Prometheus, and Grafana.
       - label: Programming
-        details: Proficient in Python for data and ML (NumPy, Pandas, PyTorch, PySpark), plus DevOps, Git, and Linux.
+        details: Python for backend automation, ML, and visualization (Pandas, PyTorch, Matplotlib); Svelte and React for frontend development.
       - label: Mathematics
         details: Strong foundation in calculus, linear algebra, and statistics.
     #  - label: Languages
