@@ -471,7 +471,7 @@
     #strong[University of Sheffield], Computer Science
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([#strong[Simulation-based testing of Autonomous Driving Systems \(ADS\)]],[Applied machine learning to accelerate scenario-based ADS verification],[Developed Multi-Fidelity Bayesian Optimization framework for ADS testing],[Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism],[Appointed as Research Assistant facilitating international collaboration],[Contributed to open-source ADS testing frameworks and tools],)
+    #v(design-highlights-top-margin);#highlights([#strong[Simulation-based testing of Autonomous Driving Systems \(ADS\)]],[Applied machine learning to accelerate scenario-based ADS verification],[Applied multi-fidelity Bayesian Optimization to reduce ADS testing costs],[Built multi-node distributed systems for large-scale experiment evaluation],[Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism],[Contributed to open-source ADS testing frameworks and tools],)
   ],
   right-content: [
     Sheffield, UK

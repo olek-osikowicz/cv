@@ -14,9 +14,9 @@
 - Sheffield, UK
 - **Simulation-based testing of Autonomous Driving Systems (ADS)**
 - Applied machine learning to accelerate scenario-based ADS verification
-- Developed Multi-Fidelity Bayesian Optimization framework for ADS testing
+- Applied multi-fidelity Bayesian Optimization to reduce ADS testing costs
+- Built multi-node distributed systems for large-scale experiment evaluation
 - Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism
-- Appointed as Research Assistant facilitating international collaboration
 - Contributed to open-source ADS testing frameworks and tools
 
 ## University of Sheffield, BSc in Computer Science
