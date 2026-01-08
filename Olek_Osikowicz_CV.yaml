@@ -14,64 +14,81 @@ cv:
   sections:
     education:
       - institution: University of Sheffield
-        area: Computer Science
+        area: School of Computer Science
         degree: PhD
-        date:
         start_date: 2023-09
         end_date: present
         location: Sheffield, UK
-        summary:
         highlights:
-        - "**Simulation-based testing of Autonomous Driving Systems (ADS)**"
-        - Applied machine learning to accelerate scenario-based ADS verification
-        - Applied multi-fidelity Bayesian Optimization to reduce ADS testing costs
-        - Built multi-node distributed systems for large-scale experiment evaluation
-        - Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism
-        - Contributed to open-source ADS testing frameworks and tools
-          # - "*PhD Supervisors: Donghwan Shin & Phil McMinn*"
+          - "Efficient and reliable simulation-based Autonomous Driving Systems testing"
+          - "*PhD Supervisors: Donghwan Shin & Phil McMinn*"
       - institution: University of Sheffield
         area: Computer Science
         degree: BSc
-        date:
         start_date: 2020-09
         end_date: 2023-06
         location: Sheffield, UK
-        summary:
         highlights:
-          - Graduated with First-Class Honours
-          - "Disertation: *Autonomous Driving Systems Testing - grounded in reality test generation*"
-    publications:
-      - title: Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing
-        authors:
-          - "***Olek Osikowicz***"
-          - Phil McMinn
-          - Wei Xing
-          - Donghwan Shin
-        journal: "*Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)*"
-        date: 2025-06
-      - title: Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments
-        authors:
-          - "***Olek Osikowicz***"
-          - Phil McMinn
-          - Donghwan Shin
-        # doi: 10.1109/TASC.2023.3340648
-        url: https://eprints.whiterose.ac.uk/222933/
-        journal: "*2025 IEEE/ACM International Flaky Tests Workshop (FTW 2025)*"
-        date: 2025-04
-    teaching:
-      - name: "[Software Re-Engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html)"
-        date:
-        start_date: 2024-03
-        end_date: present
-        summary: Supporting undergraduate and master's students in re-engineering real-world Python projects.
+          - "Graduated with **First-Class Honours**"
+          - "Dissertation: *Grounded In Reality Autonomous Driving Systems Testing*"
 
-      - name: "[Introduction to Algorithms and Data Structures](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1009.html)"
-        date:
-        start_date: 2023-02
-        end_date: 2023-06
-        summary: Running tutorial sessions for first-year students, explaining the principles of modern algorithms and data structures.
+    projects:
+      - name: Distributed ML infrastructure
+        # start_date: 2024-09
+        # end_date: present
+        highlights:
+          - Designed and deployed a multi-node computing cluster using Ray to parallelize software-in-the-loop evaluations
+          - Built automated ETL pipelines to ingest and process large-scale driving simulation data for model evaluation
+          # - "Tech Stack: Python, PyTorch, Ray, AWS (EC2/S3), Docker, Linux"
+      
+      - name: Multi-Fidelity Test Generation
+        highlights:
+          - Designed Multi-Fidelity Bayesian Optimization algorithms for Autonomous Driving Systems (ADS) testing
+          - Reduced costs of driving models evaluation by 16.8% compared to state-of-the-art baselines
+          # - Maximize information gain on model behaviour while minimizing simulation costs by varying simulator fidelity
+          # - "Tech Stack: PyTorch, NumPy, Scikit-learn, Bayesian Optimization."
+      - name: Variational Autoencoder (VAE) for Driving Scenarios
+        highlights:
+          - Implemented a deep learning pipeline to learn compact latent representations of driving scenarios
+          - Designed, trained and evaluated the model enabling efficient sampling of driving scenarios for ADS testing
+          # - "Tech Stack: Python, PyTorch"
 
-    working experience:
+      - name: Flaky Test Analysis for ADS
+        highlights:
+          - Empirically discovered and analysed the causes of flaky tests in simulation-based ADS testing
+          - Reported and published mitigation guidelines to reduce the impact of flaky tests on ADS verification
+
+    # education:
+    #   - institution: University of Sheffield
+    #     area: Computer Science
+    #     degree: PhD
+    #     date:
+    #     start_date: 2023-09
+    #     end_date: present
+    #     location: Sheffield, UK
+    #     summary:
+    #     highlights:
+    #     - "**Simulation-based testing of Autonomous Driving Systems (ADS)**"
+    #     - Applied machine learning to accelerate scenario-based ADS verification
+    #     - Applied multi-fidelity Bayesian Optimization to reduce ADS testing costs
+    #     - Built multi-node distributed systems for large-scale experiment evaluation
+    #     - Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism
+    #     - Contributed to open-source ADS testing frameworks and tools
+    #       # - "*PhD Supervisors: Donghwan Shin & Phil McMinn*"
+    #   - institution: University of Sheffield
+    #     area: Computer Science
+    #     degree: BSc
+    #     date:
+    #     start_date: 2020-09
+    #     end_date: 2023-06
+    #     location: Sheffield, UK
+    #     summary:
+    #     highlights:
+    #       - Graduated with First-Class Honours
+    #       - "Disertation: *Autonomous Driving Systems Testing - grounded in reality test generation*"
+
+
+    employment:
       - company: University of Sheffield
         position: Research Assistant in Simulation-Based Testing
         date:
@@ -89,22 +106,48 @@ cv:
         end_date: 2022-09
         location: Kraków, Poland
         highlights:
-          - Built and validated automated data pipelines on Microsoft Azure
+          - Built and validated automated ETL data pipelines on Microsoft Azure
           - Worked with SQL warehouses and Databricks for scalable data processing
     skills:
-      - label: Automation
-        details: Building distributed computing pipelines with Python multiprocessing, Docker, Ray, AWS, and GCP; observability with Loki, Prometheus, and Grafana.
       - label: Programming
-        details: Python for backend automation, ML, and visualization (Pandas, PyTorch, Matplotlib); Svelte and React for frontend development.
-      - label: Mathematics
-        details: Strong foundation in calculus, linear algebra, and statistics.
-    #  - label: Languages
-    #   details: Polish (native), English (proficient), German (conversational)
-    # open_source_projects:
-    #   - name: "[GOA Maps](https://goamaps.org/)"
-    #     date: 2024-05
-    #     summary: Map data processing application built in Python from scratch, generating high-quality city map posters.
+        details: Python (Expert), C++, SQL, TypeScript
+      - label: Distributed computing
+        details: "Ray, Docker, AWS (EC2/S3), GCP, SLURM, Multiprocessing, with Loki, Prometheus, Grafana"
+      - label: Machine Learning
+        details: Bayesian Optimization, VAEs, Reinforcement Learning in PyTorch, Pandas, Scikit-Learn.
 
+
+    publications:
+      - title: Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing
+        authors:
+          - "Olek Osikowicz"
+          - Phil McMinn
+          - Wei Xing
+          - Donghwan Shin
+        journal: "*Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)*"
+        date: 2025-06
+      - title: Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments
+        authors:
+          - "Olek Osikowicz"
+          - Phil McMinn
+          - Donghwan Shin
+        # doi: 10.1109/TASC.2023.3340648
+        url: https://eprints.whiterose.ac.uk/222933/
+        journal: "*2025 IEEE/ACM International Flaky Tests Workshop (FTW 2025)*"
+        date: 2025-04
+
+    # teaching:
+    #   - name: "[Software Re-Engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html)"
+    #     date:
+    #     start_date: 2024-03
+    #     end_date: present
+    #     summary: Supporting undergraduate and master's students in re-engineering real-world Python projects.
+
+    #   - name: "[Introduction to Algorithms and Data Structures](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1009.html)"
+    #     date:
+    #     start_date: 2023-02
+    #     end_date: 2023-06
+    #     summary: Running tutorial sessions for first-year students, explaining the principles of modern algorithms and data structures.
 
 design:
   theme: classic
@@ -125,7 +168,7 @@ design:
     last_updated_date_and_page_numbering: rgb(128, 128, 128)
   text:
     font_family: Source Sans 3
-    font_size: 10pt
+    font_size: 9.3pt
     leading: 0.6em
     alignment: justified
     date_and_location_column_alignment: right

@@ -22,7 +22,7 @@
 #let design-section-titles-vertical-space-below = 0.3cm
 #let design-section-titles-small-caps = false
 #let design-links-use-external-link-icon = true
-#let design-text-font-size = 10pt
+#let design-text-font-size = 9.3pt
 #let design-text-leading = 0.6em
 #let design-text-font-family = "Source Sans 3"
 #let design-text-alignment = "justified"
@@ -468,10 +468,10 @@
   left-column-width: 1cm,
   left-content: [#strong[PhD]],
   middle-content: [
-    #strong[University of Sheffield], Computer Science
+    #strong[University of Sheffield], School of Computer Science
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([#strong[Simulation-based testing of Autonomous Driving Systems \(ADS\)]],[Applied machine learning to accelerate scenario-based ADS verification],[Applied multi-fidelity Bayesian Optimization to reduce ADS testing costs],[Built multi-node distributed systems for large-scale experiment evaluation],[Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism],[Contributed to open-source ADS testing frameworks and tools],)
+    #v(design-highlights-top-margin);#highlights([Efficient and reliable simulation-based Autonomous Driving Systems testing],[#emph[PhD Supervisors: Donghwan Shin & Phil McMinn]],)
   ],
   right-content: [
     Sheffield, UK
@@ -489,7 +489,7 @@ Sept 2023 – present
     #strong[University of Sheffield], Computer Science
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Graduated with First-Class Honours],[Disertation: #emph[Autonomous Driving Systems Testing - grounded in reality test generation]],)
+    #v(design-highlights-top-margin);#highlights([Graduated with #strong[First-Class Honours]],[Dissertation: #emph[Grounded In Reality Autonomous Driving Systems Testing]],)
   ],
   right-content: [
     Sheffield, UK
@@ -500,75 +500,55 @@ Sept 2020 – June 2023
 
 
 
-== Publications
-
-
-#two-col-entry(
-  left-content: [
-    #strong[Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing]
-
-  ],
-  right-content: [
-    June 2025
-  ],
-)
-#one-col-entry(content:[
-  #v(design-highlights-top-margin);#strong[#emph[Olek Osikowicz]], Phil McMinn, Wei Xing, Donghwan Shin
-
-#v(design-highlights-top-margin - design-text-leading)#emph[Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium \(IV 2026\)]])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments]
-
-  ],
-  right-content: [
-    Apr 2025
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[Olek Osikowicz]], Phil McMinn, Donghwan Shin
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://eprints.whiterose.ac.uk/222933/")[eprints.whiterose.ac.uk/222933] #emph[2025 IEEE\/ACM International Flaky Tests Workshop \(FTW 2025\)]])
+== Projects
 
 
 
-== Teaching
-
-
-#two-col-entry(
-  left-content: [
-    #link("https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html")[#strong[Software Re-Engineering]]
-  ],
-  right-content: [
-    Mar 2024 – present
-  ],
-)
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Supporting undergraduate and master's students in re-engineering real-world Python projects.])], column-gutter: 0cm)
+    #strong[Distributed ML infrastructure]
+
+    #v(-design-text-leading)
+    #v(design-highlights-top-margin);#highlights([Designed and deployed a multi-node computing cluster using Ray to parallelize software-in-the-loop evaluations],[Built automated ETL pipelines to ingest and process large-scale driving simulation data for model evaluation],)
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1009.html")[#strong[Introduction to Algorithms and Data Structures]]
-  ],
-  right-content: [
-    Feb 2023 – June 2023
-  ],
-)
+
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Running tutorial sessions for first-year students, explaining the principles of modern algorithms and data structures.])], column-gutter: 0cm)
+    #strong[Multi-Fidelity Test Generation]
+
+    #v(-design-text-leading)
+    #v(design-highlights-top-margin);#highlights([Designed Multi-Fidelity Bayesian Optimization algorithms for Autonomous Driving Systems \(ADS\) testing],[Reduced costs of driving models evaluation by 16.8\% compared to state-of-the-art baselines],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
+    #strong[Variational Autoencoder \(VAE\) for Driving Scenarios]
+
+    #v(-design-text-leading)
+    #v(design-highlights-top-margin);#highlights([Implemented a deep learning pipeline to learn compact latent representations of driving scenarios],[Designed, trained and evaluated the model enabling efficient sampling of driving scenarios for ADS testing],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
+    #strong[Flaky Test Analysis for ADS]
+
+    #v(-design-text-leading)
+    #v(design-highlights-top-margin);#highlights([Empirically discovered and analysed the causes of flaky tests in simulation-based ADS testing],[Reported and published mitigation guidelines to reduce the impact of flaky tests on ADS verification],)
   ],
 )
 
 
 
-== Working Experience
+== Employment
 
 
 #two-col-entry(
@@ -591,7 +571,7 @@ June 2025 – present
     #strong[Dover Fueling Solutions], Summer Intern
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Built and validated automated data pipelines on Microsoft Azure],[Worked with SQL warehouses and Databricks for scalable data processing],)
+    #v(design-highlights-top-margin);#highlights([Built and validated automated ETL data pipelines on Microsoft Azure],[Worked with SQL warehouses and Databricks for scalable data processing],)
   ],
   right-content: [
     Kraków, Poland
@@ -606,15 +586,49 @@ June 2022 – Sept 2022
 
 
 #one-col-entry(
-  content: [#strong[Automation:] Building distributed computing pipelines with Python multiprocessing, Docker, Ray, AWS, and GCP; observability with Loki, Prometheus, and Grafana]
+  content: [#strong[Programming:] Python \(Expert\), C++, SQL, TypeScript]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Programming:] Python for backend automation, ML, and visualization \(Pandas, PyTorch, Matplotlib\); Svelte and React for frontend development]
+  content: [#strong[Distributed computing:] Ray, Docker, AWS \(EC2\/S3\), GCP, SLURM, Multiprocessing, with Loki, Prometheus, Grafana]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Mathematics:] Strong foundation in calculus, linear algebra, and statistics]
+  content: [#strong[Machine Learning:] Bayesian Optimization, VAEs, Reinforcement Learning in PyTorch, Pandas, Scikit-Learn]
 )
+
+
+== Publications
+
+
+#two-col-entry(
+  left-content: [
+    #strong[Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing]
+
+  ],
+  right-content: [
+    June 2025
+  ],
+)
+#one-col-entry(content:[
+  #v(design-highlights-top-margin);Olek Osikowicz, Phil McMinn, Wei Xing, Donghwan Shin
+
+#v(design-highlights-top-margin - design-text-leading)#emph[Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium \(IV 2026\)]])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments]
+
+  ],
+  right-content: [
+    Apr 2025
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Olek Osikowicz, Phil McMinn, Donghwan Shin
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://eprints.whiterose.ac.uk/222933/")[eprints.whiterose.ac.uk/222933] #emph[2025 IEEE\/ACM International Flaky Tests Workshop \(FTW 2025\)]])
+
 
 

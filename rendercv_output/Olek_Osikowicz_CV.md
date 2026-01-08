@@ -8,47 +8,43 @@
 
 # Education
 
-## University of Sheffield, PhD in Computer Science
+## University of Sheffield, PhD in School of Computer Science
 
 - Sept 2023 – present
 - Sheffield, UK
-- **Simulation-based testing of Autonomous Driving Systems (ADS)**
-- Applied machine learning to accelerate scenario-based ADS verification
-- Applied multi-fidelity Bayesian Optimization to reduce ADS testing costs
-- Built multi-node distributed systems for large-scale experiment evaluation
-- Diagnosed and reduced flaky ADS tests caused by simulator nondeterminism
-- Contributed to open-source ADS testing frameworks and tools
+- Efficient and reliable simulation-based Autonomous Driving Systems testing
+- *PhD Supervisors: Donghwan Shin & Phil McMinn*
 
 ## University of Sheffield, BSc in Computer Science
 
 - Sept 2020 – June 2023
 - Sheffield, UK
-- Graduated with First-Class Honours
-- Disertation: *Autonomous Driving Systems Testing - grounded in reality test generation*
+- Graduated with **First-Class Honours**
+- Dissertation: *Grounded In Reality Autonomous Driving Systems Testing*
 
-# Publications
+# Projects
 
-## Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing 
-- June 2025
-- ***Olek Osikowicz***, Phil McMinn, Wei Xing, Donghwan Shin
-- *Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)*
+## Distributed ML infrastructure
 
-## Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments ([https://eprints.whiterose.ac.uk/222933/](eprints.whiterose.ac.uk/222933))
-- Apr 2025
-- ***Olek Osikowicz***, Phil McMinn, Donghwan Shin
-- *2025 IEEE/ACM International Flaky Tests Workshop (FTW 2025)*
+- Designed and deployed a multi-node computing cluster using Ray to parallelize software-in-the-loop evaluations
+- Built automated ETL pipelines to ingest and process large-scale driving simulation data for model evaluation
 
-# Teaching
+## Multi-Fidelity Test Generation
 
-## [Software Re-Engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html)
+- Designed Multi-Fidelity Bayesian Optimization algorithms for Autonomous Driving Systems (ADS) testing
+- Reduced costs of driving models evaluation by 16.8% compared to state-of-the-art baselines
 
-- Mar 2024 – present
+## Variational Autoencoder (VAE) for Driving Scenarios
 
-## [Introduction to Algorithms and Data Structures](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1009.html)
+- Implemented a deep learning pipeline to learn compact latent representations of driving scenarios
+- Designed, trained and evaluated the model enabling efficient sampling of driving scenarios for ADS testing
 
-- Feb 2023 – June 2023
+## Flaky Test Analysis for ADS
 
-# Working Experience
+- Empirically discovered and analysed the causes of flaky tests in simulation-based ADS testing
+- Reported and published mitigation guidelines to reduce the impact of flaky tests on ADS verification
+
+# Employment
 
 ## University of Sheffield, Research Assistant in Simulation-Based Testing
 
@@ -61,11 +57,23 @@
 
 - June 2022 – Sept 2022
 - Kraków, Poland
-- Built and validated automated data pipelines on Microsoft Azure
+- Built and validated automated ETL data pipelines on Microsoft Azure
 - Worked with SQL warehouses and Databricks for scalable data processing
 
 # Skills
 
-- Automation: Building distributed computing pipelines with Python multiprocessing, Docker, Ray, AWS, and GCP; observability with Loki, Prometheus, and Grafana.
-- Programming: Python for backend automation, ML, and visualization (Pandas, PyTorch, Matplotlib); Svelte and React for frontend development.
-- Mathematics: Strong foundation in calculus, linear algebra, and statistics.
+- Programming: Python (Expert), C++, SQL, TypeScript
+- Distributed computing: Ray, Docker, AWS (EC2/S3), GCP, SLURM, Multiprocessing, with Loki, Prometheus, Grafana
+- Machine Learning: Bayesian Optimization, VAEs, Reinforcement Learning in PyTorch, Pandas, Scikit-Learn.
+# Publications
+
+## Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing 
+- June 2025
+- Olek Osikowicz, Phil McMinn, Wei Xing, Donghwan Shin
+- *Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)*
+
+## Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments ([https://eprints.whiterose.ac.uk/222933/](eprints.whiterose.ac.uk/222933))
+- Apr 2025
+- Olek Osikowicz, Phil McMinn, Donghwan Shin
+- *2025 IEEE/ACM International Flaky Tests Workshop (FTW 2025)*
+
