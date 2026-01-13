@@ -32,13 +32,13 @@ cv:
           - "Graduated with **First-Class Honours**"
           - "Dissertation: *Grounded In Reality Autonomous Driving Systems Testing*"
 
-    projects:
+    current projects:
       - name: Distributed ML infrastructure
         # start_date: 2024-09
         # end_date: present
         highlights:
           - Designed and deployed a multi-node computing cluster using Ray to parallelize software-in-the-loop evaluations
-          - Built automated ETL pipelines to ingest and process large-scale driving simulation data for model evaluation
+          - Significantly improved the throughput of ML evaluation experiments in testing research group 
           # - "Tech Stack: Python, PyTorch, Ray, AWS (EC2/S3), Docker, Linux"
       
       - name: Multi-Fidelity Test Generation

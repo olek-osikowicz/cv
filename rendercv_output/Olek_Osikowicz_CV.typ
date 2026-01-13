@@ -500,7 +500,7 @@ Sept 2020 – June 2023
 
 
 
-== Projects
+== Current Projects
 
 
 
@@ -509,7 +509,7 @@ Sept 2020 – June 2023
     #strong[Distributed ML infrastructure]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Designed and deployed a multi-node computing cluster using Ray to parallelize software-in-the-loop evaluations],[Built automated ETL pipelines to ingest and process large-scale driving simulation data for model evaluation],)
+    #v(design-highlights-top-margin);#highlights([Designed and deployed a multi-node computing cluster using Ray to parallelize software-in-the-loop evaluations],[Significantly improved the throughput of ML evaluation experiments in testing research group],)
   ],
 )
 

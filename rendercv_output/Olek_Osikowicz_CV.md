@@ -22,12 +22,12 @@
 - Graduated with **First-Class Honours**
 - Dissertation: *Grounded In Reality Autonomous Driving Systems Testing*
 
-# Projects
+# Current Projects
 
 ## Distributed ML infrastructure
 
 - Designed and deployed a multi-node computing cluster using Ray to parallelize software-in-the-loop evaluations
-- Built automated ETL pipelines to ingest and process large-scale driving simulation data for model evaluation
+- Significantly improved the throughput of ML evaluation experiments in testing research group
 
 ## Multi-Fidelity Test Generation
 
