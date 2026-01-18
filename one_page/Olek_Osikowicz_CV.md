@@ -24,9 +24,9 @@
 
 # Current Projects
 
-## Distributed ML infrastructure
+## Distributed Data Infrastructure
 
-- Designed and deployed a multi-node computing cluster using Ray to parallelize software-in-the-loop evaluations
+- Designed and deployed a multi-node computing cluster using Ray and AWS to parallelize software-in-the-loop evaluations
 - Significantly improved the throughput of ML evaluation experiments in testing research group
 
 ## Multi-Fidelity Test Generation
@@ -34,9 +34,9 @@
 - Designed Multi-Fidelity Bayesian Optimization algorithms for Autonomous Driving Systems (ADS) testing
 - Reduced costs of driving models evaluation by 16.8% compared to state-of-the-art baselines
 
-## Variational Autoencoder (VAE) for Driving Scenarios
+## Generative Modelling for Driving Scenarios
 
-- Implemented a deep learning pipeline to learn compact latent representations of driving scenarios
+- Implemented a Variational Auto-encoder (VAE) model to learn compact latent representations of driving scenarios
 - Designed, trained and evaluated the model enabling efficient sampling of driving scenarios for ADS testing
 
 ## Flaky Test Analysis for ADS
@@ -51,7 +51,7 @@
 - June 2025 – present
 - Sheffield, UK
 - Developing automated Python tooling for large-scale ADS simulation and testing
-- Project: "Simulation-Based Testing for Mobility Cyber-Physical Systems of Systems"
+- Integrated physics-based simulator CARLA with AutoWare for closed-loop evaluation
 
 ## Dover Fueling Solutions, Summer Intern
 
@@ -64,7 +64,7 @@
 
 - Programming: Python (Expert), C++, SQL, TypeScript
 - Distributed computing: Ray, Docker, AWS (EC2/S3), GCP, SLURM, Multiprocessing, with Loki, Prometheus, Grafana
-- Machine Learning: Bayesian Optimization, VAEs, Reinforcement Learning in PyTorch, Pandas, Scikit-Learn.
+- Machine Learning: PyTorch, Generative Models (VAEs), Bayesian Optimization, Reinforcement Learning
 # Publications
 
 ## Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing 

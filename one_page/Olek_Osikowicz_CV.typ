@@ -506,10 +506,10 @@ Sept 2020 – June 2023
 
 #one-col-entry(
   content: [
-    #strong[Distributed ML infrastructure]
+    #strong[Distributed Data Infrastructure]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Designed and deployed a multi-node computing cluster using Ray to parallelize software-in-the-loop evaluations],[Significantly improved the throughput of ML evaluation experiments in testing research group],)
+    #v(design-highlights-top-margin);#highlights([Designed and deployed a multi-node computing cluster using Ray and AWS to parallelize software-in-the-loop evaluations],[Significantly improved the throughput of ML evaluation experiments in testing research group],)
   ],
 )
 
@@ -528,10 +528,10 @@ Sept 2020 – June 2023
 
 #one-col-entry(
   content: [
-    #strong[Variational Autoencoder \(VAE\) for Driving Scenarios]
+    #strong[Generative Modelling for Driving Scenarios]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Implemented a deep learning pipeline to learn compact latent representations of driving scenarios],[Designed, trained and evaluated the model enabling efficient sampling of driving scenarios for ADS testing],)
+    #v(design-highlights-top-margin);#highlights([Implemented a Variational Auto-encoder \(VAE\) model to learn compact latent representations of driving scenarios],[Designed, trained and evaluated the model enabling efficient sampling of driving scenarios for ADS testing],)
   ],
 )
 
@@ -556,7 +556,7 @@ Sept 2020 – June 2023
     #strong[University of Sheffield], Research Assistant in Simulation-Based Testing
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Developing automated Python tooling for large-scale ADS simulation and testing],[Project: \"Simulation-Based Testing for Mobility Cyber-Physical Systems of Systems\"],)
+    #v(design-highlights-top-margin);#highlights([Developing automated Python tooling for large-scale ADS simulation and testing],[Integrated physics-based simulator CARLA with AutoWare for closed-loop evaluation],)
   ],
   right-content: [
     Sheffield, UK
@@ -594,7 +594,7 @@ June 2022 – Sept 2022
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Machine Learning:] Bayesian Optimization, VAEs, Reinforcement Learning in PyTorch, Pandas, Scikit-Learn]
+  content: [#strong[Machine Learning:] PyTorch, Generative Models \(VAEs\), Bayesian Optimization, Reinforcement Learning]
 )
 
 
