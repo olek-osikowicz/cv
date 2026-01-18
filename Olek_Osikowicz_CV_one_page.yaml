@@ -120,20 +120,20 @@ cv:
     publications:
       - title: Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing
         authors:
-          - "Olek Osikowicz"
+          - "**Olek Osikowicz**"
           - Phil McMinn
           - Wei Xing
           - Donghwan Shin
-        journal: "*Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)*"
+        journal: "*2026 IEEE Intelligent Vehicles Symposium (IV 2026)*"
         date: 2025-06
       - title: Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments
         authors:
-          - "Olek Osikowicz"
+          - "**Olek Osikowicz**"
           - Phil McMinn
           - Donghwan Shin
-        # doi: 10.1109/TASC.2023.3340648
-        url: https://eprints.whiterose.ac.uk/222933/
+        doi: 10.1109/FTW66604.2025.00009
         journal: "*2025 IEEE/ACM International Flaky Tests Workshop (FTW 2025)*"
+        # url: https://eprints.whiterose.ac.uk/222933/
         date: 2025-04
 
     # teaching:

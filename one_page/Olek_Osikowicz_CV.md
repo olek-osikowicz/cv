@@ -69,11 +69,11 @@
 
 ## Multi-Fidelity Bayesian Optimization for Simulation-Based Autonomous Driving Systems Testing 
 - June 2025
-- Olek Osikowicz, Phil McMinn, Wei Xing, Donghwan Shin
-- *Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium (IV 2026)*
+- **Olek Osikowicz**, Phil McMinn, Wei Xing, Donghwan Shin
+- *2026 IEEE Intelligent Vehicles Symposium (IV 2026)*
 
-## Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments ([https://eprints.whiterose.ac.uk/222933/](eprints.whiterose.ac.uk/222933))
+## Empirically Evaluating Flaky Tests for Autonomous Driving Systems in Simulated Environments ([10.1109/FTW66604.2025.00009](https://doi.org/10.1109/FTW66604.2025.00009))
 - Apr 2025
-- Olek Osikowicz, Phil McMinn, Donghwan Shin
+- **Olek Osikowicz**, Phil McMinn, Donghwan Shin
 - *2025 IEEE/ACM International Flaky Tests Workshop (FTW 2025)*
 

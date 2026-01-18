@@ -611,9 +611,9 @@ June 2022 – Sept 2022
   ],
 )
 #one-col-entry(content:[
-  #v(design-highlights-top-margin);Olek Osikowicz, Phil McMinn, Wei Xing, Donghwan Shin
+  #v(design-highlights-top-margin);#strong[Olek Osikowicz], Phil McMinn, Wei Xing, Donghwan Shin
 
-#v(design-highlights-top-margin - design-text-leading)#emph[Manuscript under review at the 2026 IEEE Intelligent Vehicles Symposium \(IV 2026\)]])
+#v(design-highlights-top-margin - design-text-leading)#emph[2026 IEEE Intelligent Vehicles Symposium \(IV 2026\)]])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
@@ -626,9 +626,9 @@ June 2022 – Sept 2022
   ],
 )
 #one-col-entry(content:[
-#v(design-highlights-top-margin);Olek Osikowicz, Phil McMinn, Donghwan Shin
+#v(design-highlights-top-margin);#strong[Olek Osikowicz], Phil McMinn, Donghwan Shin
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://eprints.whiterose.ac.uk/222933/")[eprints.whiterose.ac.uk/222933] #emph[2025 IEEE\/ACM International Flaky Tests Workshop \(FTW 2025\)]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1109/FTW66604.2025.00009")[10.1109/FTW66604.2025.00009] #emph[2025 IEEE\/ACM International Flaky Tests Workshop \(FTW 2025\)]])
 
 
 
